@@ -816,7 +816,7 @@ int main() {
 
     sqlite3* db;
     sqlite3_stmt* stmt;
-    int rc = sqlite3_open("db/pomp.db", &db);
+    int rc = sqlite3_open("pomp.db", &db);
 
     // fonction qui crée le db et les tables
     CreateDataBaseAndTable(db, rc);
