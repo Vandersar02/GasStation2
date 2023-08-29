@@ -9,17 +9,8 @@
 #include <conio.h> //Inclure la bibliothèque conio.h pour getch()
 #include <cstdlib> // pour avoir accès au 'system'
 #include <ctime> // afin d' avoir la date et l' heure au moment donné
+#include <string>
 
-
-// tous mes classes pour l'organisation de mes tables & champs
-#include "Camion.h"
-#include "Personne.h"
-#include "Flux.h"
-#include "Citerne.h"
-#include "Station.h"
-#include "uniteVolume.h"
-#include "Conduit.h"
-#include "Login.h"
 #pragma endregion
 
 using namespace std;
