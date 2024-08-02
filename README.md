@@ -8,6 +8,7 @@ Le système de gestion de station-service est une application en C++ utilisant S
 
 - **SQLite3** : Assurez-vous que la bibliothèque SQLite3 est installée sur votre machine.
 - **Compiler C++** : Un compilateur C++ compatible, comme g++, pour compiler le code source.
+- **SQLite3.5** : https://github.com/GaloisInc/sqlite/tree/master/sqlite3.5
 
 ## Structure du Code
 
